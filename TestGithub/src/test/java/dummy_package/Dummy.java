@@ -8,7 +8,7 @@ public class Dummy {
 	public void Dummy() {
 		System.out.println("!!!!!");
 		System.out.println("!!!!!");
-		
+		System.out.println("hi");
 		
 		
 
